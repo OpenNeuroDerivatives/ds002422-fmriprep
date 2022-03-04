@@ -1,1 +1,1 @@
-/corral-repl/utexas/poldracklab/data/OpenNeuro/old/derivatives/ds000001/fmriprep-20.0.0rc1/freesurfer/fsaverage/xhemi/mri/transforms/talsrcimg_to_711-2C_as_mni_average_305_t4_vox2vox.txt
+../../../../../../.git/annex/objects/17/pW/MD5E-s385--23ff3086bfd4def216ea6211a6d312c3.txt/MD5E-s385--23ff3086bfd4def216ea6211a6d312c3.txt

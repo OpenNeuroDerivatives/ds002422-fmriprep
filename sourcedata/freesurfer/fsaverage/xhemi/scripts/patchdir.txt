@@ -1,1 +1,1 @@
-/corral-repl/utexas/poldracklab/data/OpenNeuro/old/derivatives/ds000001/fmriprep-20.0.0rc1/freesurfer/fsaverage/xhemi/scripts/patchdir.txt
+../../../../../.git/annex/objects/6X/8m/MD5E-s0--d41d8cd98f00b204e9800998ecf8427e.txt/MD5E-s0--d41d8cd98f00b204e9800998ecf8427e.txt

@@ -1,1 +1,1 @@
-/corral-repl/utexas/poldracklab/data/OpenNeuro/old/derivatives/ds000001/fmriprep-20.0.0rc1/freesurfer/fsaverage/scripts/cvs_log_pre_31May2011.txt
+../../../../.git/annex/objects/Xk/mQ/MD5E-s4281--b9d91d570b5ee561e46b92038c7e2a1b.txt/MD5E-s4281--b9d91d570b5ee561e46b92038c7e2a1b.txt

@@ -1,1 +1,1 @@
-/corral-repl/utexas/poldracklab/data/OpenNeuro/old/derivatives/ds000001/fmriprep-20.0.0rc1/freesurfer/fsaverage/surf/rh.inflated.H
+../../../../.git/annex/objects/Vf/v1/MD5E-s655383--bba433769c853227606f9025c3a4510a.H/MD5E-s655383--bba433769c853227606f9025c3a4510a.H

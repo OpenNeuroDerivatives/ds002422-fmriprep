@@ -1,1 +1,1 @@
-/corral-repl/utexas/poldracklab/data/OpenNeuro/old/derivatives/ds000001/fmriprep-20.0.0rc1/freesurfer/fsaverage/scripts/build-stamp.txt
+../../../../.git/annex/objects/GF/Kg/MD5E-s49--0776c9fd1ea05adb48418a7f60be4afb.txt/MD5E-s49--0776c9fd1ea05adb48418a7f60be4afb.txt

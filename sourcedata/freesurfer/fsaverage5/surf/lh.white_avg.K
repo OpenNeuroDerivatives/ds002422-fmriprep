@@ -1,1 +1,1 @@
-/corral-repl/utexas/poldracklab/data/OpenNeuro/old/derivatives/ds000001/fmriprep-20.0.0rc1/freesurfer/fsaverage5/surf/lh.white_avg.K
+../../../../.git/annex/objects/Mw/gJ/MD5E-s40983--32072b787890e1a97ef35591fdc50213.K/MD5E-s40983--32072b787890e1a97ef35591fdc50213.K
