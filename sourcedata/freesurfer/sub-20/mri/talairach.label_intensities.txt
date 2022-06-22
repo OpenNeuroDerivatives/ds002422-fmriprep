@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/Jw/14/MD5E-s1544--3fec117e3643990b1831b35596018b13.txt/MD5E-s1544--3fec117e3643990b1831b35596018b13.txt
+/annex/objects/MD5E-s1544--3fec117e3643990b1831b35596018b13.txt
