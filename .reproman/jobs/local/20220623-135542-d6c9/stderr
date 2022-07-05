@@ -1,1 +1,6 @@
-../../../../.git/annex/objects/7K/8F/MD5E-s300--d8de973c1254a24610d0d384815dd7f0/MD5E-s300--d8de973c1254a24610d0d384815dd7f0
+Warning: Permanently added 'c190-151' (ED25519) to the list of known hosts.
+WARNING (06/23/22 19:46:18): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4526265.hostlist.eqzShZFc to get hosts
+starting job on c190-151
+starting job on c190-161
+starting job on c191-214

@@ -1,1 +1,19 @@
-../../../../.git/annex/objects/jk/KV/MD5E-s1399--4b004ac7567712a0e061d8d20b7fe3f1.7/MD5E-s1399--4b004ac7567712a0e061d8d20b7fe3f1.7
+Process Process-2:
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/opt/conda/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/opt/conda/lib/python3.8/site-packages/fmriprep/cli/workflow.py", line 118, in build_workflow
+    retval["workflow"] = init_fmriprep_wf()
+  File "/opt/conda/lib/python3.8/site-packages/fmriprep/workflows/base.py", line 85, in init_fmriprep_wf
+    single_subject_wf = init_single_subject_wf(subject_id)
+  File "/opt/conda/lib/python3.8/site-packages/fmriprep/workflows/base.py", line 324, in init_single_subject_wf
+    fmap_estimators = find_estimators(
+  File "/opt/conda/lib/python3.8/site-packages/sdcflows/utils/wrangler.py", line 282, in find_estimators
+    fm.FieldmapFile(fmap.path, metadata=fmap.get_metadata())
+  File "<attrs generated init sdcflows.fieldmaps.FieldmapFile>", line 11, in __init__
+    __attr_validator_path(self, __attr_path, self.path)
+  File "/opt/conda/lib/python3.8/site-packages/sdcflows/fieldmaps.py", line 203, in check_path
+    raise FileNotFoundError(
+FileNotFoundError: File path </scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds002422-fmriprep/sourcedata/raw/sub-15/fmap/sub-15_run-01_phasediff.nii> does not exist, is a broken link, or it is not a file
