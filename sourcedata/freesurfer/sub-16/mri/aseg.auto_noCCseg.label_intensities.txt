@@ -1,1 +1,1 @@
-/annex/objects/MD5E-s1546--f761c5c8476d0b8013c16f75b1e77c88.txt
+../../../../.git/annex/objects/mx/8M/MD5E-s1546--f761c5c8476d0b8013c16f75b1e77c88.txt/MD5E-s1546--f761c5c8476d0b8013c16f75b1e77c88.txt
