@@ -1,7 +1,0 @@
-Warning: Permanently added 'c185-134' (ED25519) to the list of known hosts.
-Warning: Permanently added 'c185-184' (ED25519) to the list of known hosts.
-WARNING (03/01/22 07:50:23): LAUNCHER_WORKDIR variable not set. Using current directory.
-using /tmp/launcher.4101174.hostlist.EtswcBRj to get hosts
-starting job on c185-134
-starting job on c185-161
-starting job on c185-184
